@@ -1,5 +1,5 @@
 Declare,metatab-latest
-Title,
+Title,Safegraph Patterns Data
 Description,
 Identifier,b8c02afc-cfb9-4650-abc2-e8f35c0cf25c
 Name,safegraph.com-patterns-1.1.1
@@ -13,18 +13,37 @@ Version,1.1.1
 Version.Major,1
 Version.Minor,1
 Version.Patch,1
+Note,The licence for this data expires October 2022; the data should be deleted after that. 
 Created,2021-09-29T15:37:56
 Modified,2021-09-29T15:37:57
 Giturl,https://github.com/CivicKnowledge/radius-collection
-""
+
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
-""
+
 Section,Documentation,Title,Description,
 Documentation,file:README.md,README,,
-""
+
 Section,References,Name,Description,
-""
+,,
+,,
+,,
+,,
+,
+,,
+,,
+,,
+,,
+,
+,,
+,,
+,,
+,,
+,
+,,
+,,
+,
+
 Section,Resources,Name,Description,
-""
+
 Section,Schema,DataType,AltName,Description
